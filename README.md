@@ -6,12 +6,20 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:is the process of designing,developing and maintaining of a software product that was build using well explained methods and procedures.
 
-What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+What is software engineering, and how does it differ from traditional programming? Software engineering is the process of maintaining softare products that are already in use meanwhile, Programming  is the act of manually writing,designing and implementing computer software using programming languages such as Python, C++, or Java.
+
+Software Development Life Cycle (SDLC):Stages followed when developing a software product.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+1. Requirement gathering and Analysis - important information is gathered/collected from the users to develop the software product.
+2. Design - The information gathered in the Software Requirement specification document is used as an input and software architecture that is used for for implementing system development is acquired. 
+3. Implementation/Coding - Once the software developer receives the SRS/document,Source code is created by converting the software design. During this stage, every software component is put into use.
+4. Testing - a prototype is released for testing and if bugs are found,the sample is returned to developers to get fixed.
+5. Deployment - if the prototype is approved, the final product is released to the users/customers.
+6. Maintenance - After launching of the software product on the the production environment.It gets maintained more often for any issues that may occur or software updates that need to be done.
+   
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
