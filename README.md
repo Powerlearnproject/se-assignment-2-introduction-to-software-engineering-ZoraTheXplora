@@ -54,7 +54,8 @@ e.g. Git, Bitbucket,Github.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-*Answer*: Project Estimation: This is the first step in software project management, where the size of the project is estimated. This size estimation serves as the basis for the estimation of other important parameters such as cost, duration, and effort.
+
+Answer: Project Estimation: This is the first step in software project management, where the size of the project is estimated. This size estimation serves as the basis for the estimation of other important parameters such as cost, duration, and effort.
 Cost Estimation: This involves calculating the total expenses required to develop the software product.
 Time Estimation: This is the process of calculating the total time needed to complete the project.
 
