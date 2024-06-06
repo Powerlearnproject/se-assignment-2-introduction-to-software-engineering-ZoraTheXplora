@@ -49,11 +49,14 @@ Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Version control systems - It's a system that keeps track of changes made to files or a group of files over time, allowing you to retrieve specific versions later on.
 They play a significant role in software development by promoting collaboration, preserving a record of alterations, aiding in code examination, assisting in debugging, and upholding the stability and integrity of the code.
-e.g. Git, Bitbucket,Github,
+e.g. Git, Bitbucket,Github.
 
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+*Answer*: Project Estimation: This is the first step in software project management, where the size of the project is estimated. This size estimation serves as the basis for the estimation of other important parameters such as cost, duration, and effort.
+Cost Estimation: This involves calculating the total expenses required to develop the software product.
+Time Estimation: This is the process of calculating the total time needed to complete the project.
 
 Software Maintenance:
 
