@@ -35,14 +35,19 @@ Software engineering is the process of maintaining softare products that are alr
 **Advantages**:
 
 1.Clear Planning: Detailed roadmap for each project stage.
+
 2.Structured Approach: Methodical management style.
+
 3.Progress Tracking: Easy monitoring of progress, risks, and budgets.
+
 4.Managerial Control: Project managers have significant authority.
 
 **Disadvantages**:
 
 1.Inflexible to Changes: Requires extensive replanning for any changes.
+
 2.Delayed Value: Value of completed tasks may only be seen at project's end.
+
 3.High Adjustment Costs: Changes late in the process can be costly.
 
 **Agile project management** - is a flexible approach widely used in software development. It lets teams adapt quickly to changes and deliver good results fast.
@@ -51,15 +56,21 @@ Agile focuses on teamwork, customer satisfaction, and breaking big projects into
 **Advantages**
 
 1.Adaptability: Handles changes in project requirements well.
+
 2.Speed: Quickly adjusts to new information and feedback.
+
 3.Visibility: Clearly tracks tasks and progress.
+
 4.Quality: Emphasizes testing and improving quality.
 
 **Disadvantages**
 
 1.Customer Involvement: Needs customers to be involved in planning and feedback.
+
 2.Project Management: Managers have less direct control.
+
 3.Engineering Challenges: Changes may require redoing some work.
+
 4.Cost and Time: Adding new features can increase costs and time.
 
 
