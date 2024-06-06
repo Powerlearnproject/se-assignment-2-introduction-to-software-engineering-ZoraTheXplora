@@ -15,11 +15,17 @@ Software engineering is the process of maintaining softare products that are alr
 **Software Development Life Cycle (SDLC):** Stages followed when developing a software product.
 
 **Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.**
+
 1. **Requirement gathering and Analysis** - important information is gathered/collected from the users to develop the software product.
+
 2. **Design** - The information gathered in the Software Requirement specification document is used as an input and software architecture that is used for for implementing system development is acquired. 
+
 3. **Implementation/Coding** - Once the software developer receives the SRS/document,Source code is created by converting the software design. During this stage, every software component is put into use.
+
 4. **Testing** - a prototype is released for testing and if bugs are found,the sample is returned to developers to get fixed.
+
 5. **Deployment** - if the prototype is approved, the final product is released to the users/customers.
+
 6. **Maintenance** - After launching of the software product on the the production environment.It gets maintained more often for any issues that may occur or software updates that need to be done.
    
 **Agile vs. Waterfall Models:**
@@ -104,11 +110,14 @@ Evaluates the project's costs and benefits. This includes development, hardware 
 There are various methods for extracting requirements, such as:
 
 a. **Interviews**: One-on-one talks with stakeholders are used to learn more about their requirements and expectations.
+
 Surveys: Stakeholders are given questionnaires to complete in order to learn more about their requirements and expectations.
+
 b. **Focus groups**: Stakeholders are gathered in small groups to talk about their requirements and expectations for the software system.
+
 c. **Observation**: This method entails keeping an eye on the stakeholders in their workplace to learn about their requirements and expectations.
-d. **Prototyping**: is a technique that entails building a functional model of the software system in order to validate requirements and get input from stakeholders.
-To make sure that they are met, it is crucial to record, arrange, and rank the needs derived from each of these strategies.
+
+d. **Prototyping**: is a technique that entails building a functional model of the software system in order to validate requirements and get input from stakeholders.To make sure that they are met, it is crucial to record, arrange, and rank the needs derived from each of these strategies.
 
 3. **Requirements specifications**
    
@@ -118,19 +127,25 @@ The process of clearly, consistently, and unambiguously defining the requirement
 Several types of requirements are commonly specified in this step, including:
 
 a. **Functional Requirements**: These specify the functions that the software program must have. They outline the features that the system must have, including data storage, user interface, and input validation.
+
 b. **Non-Functional Requirements**: These specify the level of performance that the software system must meet. They outline the system's quality qualities, including security, usability, performance, and dependability.
+
 c. **Constraints:** These are any limits or limitations that need to be taken into account when creating the software system.
+
 d. **Acceptance Criteria**: These spell out what has to happen in order for the software system to be deemed finished and prepared for distribution.
 
 4. **Requirements Verification and Validation**
 
 **Verification** is the process of ensuring that a particular function is implemented correctly by the program through a collection of tasks. 
+
 **Validation** is the term for a distinct set of activities meant to guarantee that the developed software can be linked back to the needs of the client. Errors in the requirement definitions would spread to the subsequent phases and necessitate extensive modification and redo if requirements were not validated. 
 
 This process's primary steps are as follows:
 
 a.No two criteria should clash with one another; rather, all requirements should be compatible with one another.
+
 b.The specifications must to be comprehensive in every way.
+
 c.The specifications ought to be reachable in practice.
 
 5. **Requirement Management**
@@ -139,11 +154,13 @@ The process of assessing, recording, monitoring, deciding upon, and prioritizing
 
 Several key activities are involved in requirements management, including:
 
-a.**Monitoring and controlling changes**: This is keeping an eye on and managing modifications to the requirements as they arise during the development process. This includes figuring out where the changes came from, evaluating their effects, and deciding whether to accept or reject them.
-Keeping track of several iterations of the requirements document and other relevant artifacts is part of version control.
+a.**Monitoring and controlling changes**: This is keeping an eye on and managing modifications to the requirements as they arise during the development process. This includes figuring out where the changes came from, evaluating their effects, and deciding whether to accept or reject them.Keeping track of several iterations of the requirements document and other relevant artifacts is part of version control.
 Linking the requirements to other steps in the development process, such design, testing, and validation, is known as traceability.
+
 b.**Communication**: This is making sure that all parties involved are informed of the requirements in an effective manner and that any modifications or problems are dealt with right away.
+
 c.**Monitoring and reporting**: This entails keeping an eye on how the development process is going and providing updates on the requirements' state.
+
 
 **Software Design Principles:**
 
@@ -192,8 +209,11 @@ Each module is made to carry out a particular duty or function, and these module
 **Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing)**
 
 1. **Unit testing** - in this kind of testing, mistakes are found one by one in each part or unit by testing them separately. This ensures that each part or unit of the software is suitable for use by the developers. These parts or units are the smallest parts of the software that can be tested.
+   
 2. **integration testing** - in this testing, we put together parts that were tested separately to see how they work together. We check if they do what they're supposed to do and find any problems in how they connect with each other.
+   
 3. **system testing** - In system testing, the entire software is tested as a whole. This means all the parts that make up the system are tested together to make sure they meet the system's needs.
+ 
 4. **acceptance testing** - this type of testing is done to make sure the software meets the users' needs and works properly in their environment before it's given to them.
 
 **Why is testing crucial in software development?**
@@ -217,19 +237,29 @@ Software project management involves several other plans in addition to the majo
 **Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?**
 
 1. **Project Estimation**: This is the first step in software project management, where the size of the project is estimated. This size estimation serves as the basis for the estimation of other important parameters such as cost, duration, and effort.
+   
 2. **Cost Estimation**: This involves calculating the total expenses required to develop the software product.
+ 
 3. **Time Estimation**: This is the process of calculating the total time needed to complete the project.
+   
 4. **Risk Management**: The project manager should identify the unanticipated risks that may occur during project development risk, analyze the damage that might cause these risks, and take a risk reduction plan to cope with these risks.
 
 
 Challenges faced in managing software project?
 
-Answer: 1.Unclear and undefined expectations - Not knowing exactly what is expected.
+Answer:
+1.Unclear and undefined expectations - Not knowing exactly what is expected.
+
 2. Time constraint - Limited time to complete tasks.
+   
 3.Changing project requirements and priorities - Project needs and priorities keep shifting.
+
 4.Poor communication - Not effectively sharing information.
+
 5.Skills management - Handling team members' skills properly.
+
 6.Changing technologies - Technologies are constantly evolving.
+
 7. Keeping everyone on the same page - Ensuring everyone understands and agrees on the same things.
 
 **Software Maintenance:**
@@ -241,9 +271,13 @@ Answer: 1.Unclear and undefined expectations - Not knowing exactly what is expec
 **explain the different types of maintenance activities:**
 
 1. **Corrective Maintenance**: Fixing mistakes and bugs in the software.
+   
 2. **Patching**: A quick fix due to management pressure, often leading to new errors because it isn't thoroughly checked.
+   
 3. **Adaptive Maintenance**: Changing the software to fit new environments, like new hardware, software, laws, or business rules.
+   
 4. **Perfective Maintenance**: Enhancing functionality, performance, and reliability, and making the software easier to change.
+
 5. **Preventive Maintenance**: Taking steps to avoid future issues, like optimizing, updating documentation, reviewing and testing the system, and setting up backups.
 
 **Why is maintenance an essential part of the software lifecycle?**
@@ -274,8 +308,9 @@ Software engineers may face ethical challenges such as:
    
 9. **Environmental Impact**: Reducing the environmental effects of software.
 
-How can software engineers ensure they adhere to ethical standards in their work?
-Answer: Software engineers can make sure they follow ethical standards by:
+**How can software engineers ensure they adhere to ethical standards in their work?**
+
+Software engineers can make sure they follow ethical standards by:
 
 1. **Staying Updated**: Knowing the latest ethical guidelines and laws that apply to their work.
 
